@@ -9,3 +9,9 @@ Los estudiantes que presentan esta solución:
 * Jorge Luis Renteria Roa
 * Luis Rodrigo Vesga Vesga
 * Santiago Echeverry Calderon 
+
+
+Profesor Juan David Ospina Arango  
+Maestría en Ciencia de los Datos y Analítica  
+Universidad Eafit  
+Semestre 01-2020 
